@@ -1,0 +1,32 @@
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.exe
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.deps.json
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.runtimeconfig.json
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.dll
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.pdb
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.Form1.resources
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.csproj.GenerateResource.cache
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.AssemblyInfoInputs.cache
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.AssemblyInfo.cs
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.csproj.CoreCompileInputs.cache
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.dll
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\refint\B221202032.dll
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.pdb
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.genruntimeconfig.cache
+D:\Projeler\saü\C#\form applications\B221202032\B221202032\obj\Debug\net8.0-windows\ref\B221202032.dll
+C:\Users\Azra\Desktop\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.exe
+C:\Users\Azra\Desktop\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.deps.json
+C:\Users\Azra\Desktop\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.runtimeconfig.json
+C:\Users\Azra\Desktop\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.dll
+C:\Users\Azra\Desktop\B221202032\B221202032\bin\Debug\net8.0-windows\B221202032.pdb
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.Form1.resources
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.csproj.GenerateResource.cache
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.AssemblyInfoInputs.cache
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.AssemblyInfo.cs
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.csproj.CoreCompileInputs.cache
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.dll
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\refint\B221202032.dll
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.pdb
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\B221202032.genruntimeconfig.cache
+C:\Users\Azra\Desktop\B221202032\B221202032\obj\Debug\net8.0-windows\ref\B221202032.dll
